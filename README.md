@@ -1,6 +1,6 @@
 # qiskit-community.github.io
 
-This repository allows us to set up client-side redirects in GitHub Pages for repositories that moved from the qiskit-community organization to Qiskit.
+This repository allows us to set up client-side redirects in GitHub Pages for repositories that moved from the qiskit-community organization.
 
 The redirects live in this organization-level site rather than in a repository named after the project, so that the GitHub-level redirect for `github.com/qiskit-community/<repo-name>` keeps working.
 
